@@ -35,8 +35,8 @@ textarea {
 
 img {
   vertical-align: middle;
-  max-width: 100%;
-  height: auto;
+  max-width: 160px;
+  height: 160px;
 }
 
 body {
